@@ -13,10 +13,10 @@
 - 👯 Open to collaborate on projects in **Web Dev**, **AI & ML**, and **DSA**
 - 🤔 Seeking mentorship in advanced **AI & ML** topics
 - 💬 Ask me about coding, problem-solving, and web technologies
-- 📫 Reach me at: **praj24196@gmail.com**
+- 📫 Reach me at: **dasrabi2004@gmail.com**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratiktech957&style=flat-square&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=rabinarayandas&style=flat-square&color=blueviolet" alt="Profile views"/>
 </div>
 
 <div align="center">
@@ -27,10 +27,8 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,11 +40,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratiktech957&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiktech957&layout=compact&langs_count=7&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabi-09&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabi-09&layout=compact&langs_count=7&theme=radical" alt="Top Languages"/>
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratiktech957&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rabi-09&theme=radical)
 
 
 
@@ -56,9 +54,9 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-mohanty-tech)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabinarayandas)
   <!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter) -->
-  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:praj24196@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasrabi2004@gmail.com)
   
 </div>
 
@@ -69,7 +67,7 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Pratik"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="rabi-09"/>
 </div>
 
 
